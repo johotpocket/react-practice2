@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.my-jumbotron {
+  text-align: center;
+}
+
+.my-container {
+  text-align: center;
+}
